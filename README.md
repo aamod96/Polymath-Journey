@@ -73,11 +73,12 @@ These courses will be from MIT opencourseware and the level will be equivalent t
 #### Sem 2
 1. [Solid State Chemistry](https://ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/pages/organic-materials/28-polymers-structure-composition/)
 2. [Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/pages/syllabus/)
+3. [Intro to Biology](https://ocw.mit.edu/courses/7-012-introduction-to-biology-fall-2004/)
 
 #### Sem 3
 1. [Physics 2: Electricity and Magnetism](https://ocw.mit.edu/courses/8-02t-electricity-and-magnetism-spring-2005/pages/syllabus/)
 2. [Principles of Chemical Science](https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/pages/syllabus/)
-3. [Intro to Biology](https://ocw.mit.edu/courses/7-012-introduction-to-biology-fall-2004/)
+3. [University Chemistry](https://www.edx.org/bachelors/microbachelors/harvardx-university-chemistry?index=product&queryId=77a9ccb23a580e4eb34345cf29a76a5c&position=1)
 
 #### Sem 4
 1. [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
@@ -98,6 +99,7 @@ These courses will be from MIT opencourseware and the level will be equivalent t
 1. [Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/syllabus/)
 2. [Circuits and Electronics](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/)
 3. [Introduction to Nuclear Engineering and Ionization Radiation](http://ocw.mit.edu/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/video_galleries/lecture-videos/)
+4. [Circuits and Electronics EdX](https://www.edx.org/xseries/mitx-circuits-and-electronics?index=product&queryId=d63e86556ead520b66d93fda48b65ff2&position=8)
 
 #### Sem 8
 1. [Probabilistic Systems Analysis](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video_galleries/video-lectures/)
@@ -113,7 +115,21 @@ These courses will be from MIT opencourseware and the level will be equivalent t
 #### Sem 10
 1. [Signals and Systems](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/)
 2. [Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/syllabus/)
+3. [Solar Energy](https://www.edx.org/certificates/professional-certificate/delftx-solar-energy?index=product&queryId=d63e86556ead520b66d93fda48b65ff2&position=24)
 
 #### Sem 11
 1. [Computer Systems Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/pages/syllabus/)
 2. [Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
+3. [Smart Grids Integration and Modeling](https://www.edx.org/certificates/professional-certificate/delftx-smart-grids-integration-and-modeling?index=product&queryId=f499c2d47acd4e99e62cec4316074af4&position=58)
+
+#### Sem 12
+1. [Virtual Reality (VR) App Development](https://www.edx.org/certificates/professional-certificate/ucsandiegox-virtual-reality-app-development?index=product&queryId=20d5d8b218f3079d8d57ada631fad739&position=9)
+2. [Astrophysics](https://www.edx.org/xseries/australian-national-university-astrophysics)
+3. [Engineering Genetic Circuits Specialization](https://www.coursera.org/specializations/engineering-genetic-circuits)
+4. [Applied Bioinformatics Specialization](https://www.coursera.org/specializations/applied-bioinformatics)
+
+#### Sem 13
+1. [FedericaX: Robotics Foundations I - Robot Modeling](https://www.edx.org/learn/robotics/universita-degli-studi-di-napoli-federico-ii-robotics-foundations-i-robot-modeling?index=product&queryId=99d017147631efec3d0c1f629463e71b&position=5)
+
+#### Sem 14
+1. [FedericaX: Robotics Foundation II - Robot Control](https://www.edx.org/learn/robotics/universita-degli-studi-di-napoli-federico-ii-robotics-foundation-ii-robot-control?index=product&queryId=99d017147631efec3d0c1f629463e71b&position=6)
