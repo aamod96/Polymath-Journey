@@ -34,7 +34,7 @@ The foundational subjects here will be from GeekforGeeks website and will cover 
 3. [Chemistry](https://www.geeksforgeeks.org/chemistry/?ref=footer&_gl=1*yfma5i*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwzMi_BhACEiwAX4YZUNVCTWlUAS905JxqJdFS8eE9iVMNcsSQkwV_KbmjcNn1rjIJzLIzWBoCM9EQAvD_BwE)
 4. [Mathematics](https://www.geeksforgeeks.org/maths/?ref=footer&_gl=1*yfma5i*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwzMi_BhACEiwAX4YZUNVCTWlUAS905JxqJdFS8eE9iVMNcsSQkwV_KbmjcNn1rjIJzLIzWBoCM9EQAvD_BwE)
 
-### Foundations 2 (2 - 4 Months)
+### Foundations 2 (3 - 6 Months)
 These foundational learnings will come from encyclopedias, books and the manga guides. The manga guides are japanese comics written for many subjects and illustrate the fundamentals of many fields of science and engineering.
 
 1. [Animals - A Visual Encyclopedia](https://drive.google.com/file/d/1Vb3oVMjD87yn-RRa0VCnfIJ8twAm-rME/view?usp=drive_link)
@@ -136,6 +136,8 @@ These courses will be from MIT opencourseware and the level will be equivalent t
 
 #### Sem 13
 1. [FedericaX: Robotics Foundations I - Robot Modeling](https://www.edx.org/learn/robotics/universita-degli-studi-di-napoli-federico-ii-robotics-foundations-i-robot-modeling?index=product&queryId=99d017147631efec3d0c1f629463e71b&position=5)
+2. [MicroBachelors Program in Introduction to Neuroscience](https://www.edx.org/bachelors/microbachelors/harvardx-introduction-to-neuroscience?index=product&queryId=4d655590c9138f6adeb94bca22a60b2a&position=16)
 
 #### Sem 14
 1. [FedericaX: Robotics Foundation II - Robot Control](https://www.edx.org/learn/robotics/universita-degli-studi-di-napoli-federico-ii-robotics-foundation-ii-robot-control?index=product&queryId=99d017147631efec3d0c1f629463e71b&position=6)
+2. [Embedded Systems Essentials with Arm](https://www.edx.org/certificates/professional-certificate/armeducationx-embedded-systems-essentials?index=product&queryId=8be62b44cf80a34775428c352f37b37c&position=16)
