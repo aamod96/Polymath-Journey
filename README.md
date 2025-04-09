@@ -20,7 +20,9 @@ I believe that in order to become a polymath it is not just about learning a lot
 12. How We Learn by Benedict Carey
 13. Make It Stick by Peter C. Brown, Henry L. Roediger, and Mark A. McDaniel
 14. Unlimited Memory by Grandmaster Kevin Horsley
-15. The Feynman Technique by Richard Feynman
+15. Polymath: Master Multiple Disciplines, Learn New Skills, Think Flexibly, and Become Extraordinary Autodidact by Peter Hollins
+16. Learn Like a Polymath by Peter Hollins
+17. The Art of Logical Thinking by William Walker Atkinson
 
 
 ## Science and technology
@@ -33,7 +35,7 @@ The foundational subjects here will be from GeekforGeeks website and will cover 
 4. [Mathematics](https://www.geeksforgeeks.org/maths/?ref=footer&_gl=1*yfma5i*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwzMi_BhACEiwAX4YZUNVCTWlUAS905JxqJdFS8eE9iVMNcsSQkwV_KbmjcNn1rjIJzLIzWBoCM9EQAvD_BwE)
 
 ### Foundations 2 (2 - 4 Months)
-These foundational learnings will come from encyclopedias and the manga guides. The manga guides are japanese comics written for many subjects and illustrate the fundamentals of many fields of science and engineering.
+These foundational learnings will come from encyclopedias, books and the manga guides. The manga guides are japanese comics written for many subjects and illustrate the fundamentals of many fields of science and engineering.
 
 1. [Animals - A Visual Encyclopedia](https://drive.google.com/file/d/1Vb3oVMjD87yn-RRa0VCnfIJ8twAm-rME/view?usp=drive_link)
 2. [Cars, Trains, Ships, and Planes - A Visual Encyclopedia](https://drive.google.com/file/d/1jNZB2lW8CGqLk2NGP-odGhF96u2iMguG/view?usp=sharing)
@@ -61,6 +63,10 @@ These foundational learnings will come from encyclopedias and the manga guides. 
 25. [The Manga Guide to Relativity](https://drive.google.com/file/d/1g31SKorSlQHH11rAvwEkxZM4JWUr_7IP/view?usp=sharing)
 26. [The Manga Guide to Statistics](https://drive.google.com/file/d/1UU5RVcR6MZ-PJBEFyCO-B0_1-C_940fk/view?usp=sharing)
 27. [The Manga Guide to Universe](https://drive.google.com/file/d/1jdO_30EQLyJjmCdoWss_7IJqdYOFNoc5/view?usp=sharing)
+28. Six Easy Pieces by Richard Feynman
+29. Code by Charles Petzold
+30. Our Mathematical Universe by Max Tegmark
+31. Life 3.0 by Max Tegmark
 
 ### Undergraduate Courses (1 - 2 Years)
 These courses will be from MIT opencourseware and the level will be equivalent to an undergraduate degree.
