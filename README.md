@@ -121,7 +121,7 @@ These courses will be from MIT opencourseware and the level will be equivalent t
 #### Sem 10
 1. [Signals and Systems](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/)
 2. [Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/syllabus/)
-3. [Solar Energy](https://www.edx.org/certificates/professional-certificate/delftx-solar-energy?index=product&queryId=d63e86556ead520b66d93fda48b65ff2&position=24)
+3. [Solar Energy Engineering](https://www.edx.org/masters/micromasters/delftx-solar-energy-engineering)
 
 #### Sem 11
 1. [Computer Systems Engineering](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/pages/syllabus/)
@@ -137,7 +137,9 @@ These courses will be from MIT opencourseware and the level will be equivalent t
 #### Sem 13
 1. [FedericaX: Robotics Foundations I - Robot Modeling](https://www.edx.org/learn/robotics/universita-degli-studi-di-napoli-federico-ii-robotics-foundations-i-robot-modeling?index=product&queryId=99d017147631efec3d0c1f629463e71b&position=5)
 2. [MicroBachelors Program in Introduction to Neuroscience](https://www.edx.org/bachelors/microbachelors/harvardx-introduction-to-neuroscience?index=product&queryId=4d655590c9138f6adeb94bca22a60b2a&position=16)
+3. [Circuits and Electronics](https://www.edx.org/xseries/mitx-circuits-and-electronics)
 
 #### Sem 14
 1. [FedericaX: Robotics Foundation II - Robot Control](https://www.edx.org/learn/robotics/universita-degli-studi-di-napoli-federico-ii-robotics-foundation-ii-robot-control?index=product&queryId=99d017147631efec3d0c1f629463e71b&position=6)
 2. [Embedded Systems Essentials with Arm](https://www.edx.org/certificates/professional-certificate/armeducationx-embedded-systems-essentials?index=product&queryId=8be62b44cf80a34775428c352f37b37c&position=16)
+3. [Quantum Technology: Computing and Sensing](https://www.edx.org/masters/micromasters/purduex-quantum-technology-computing-and-sensin)
