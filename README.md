@@ -22,7 +22,7 @@ I believe that in order to become a polymath it is not just about learning a lot
 15. Polymath: Master Multiple Disciplines, Learn New Skills, Think Flexibly, and Become Extraordinary Autodidact by Peter Hollins
 16. Learn Like a Polymath by Peter Hollins
 17. The Art of Logical Thinking by William Walker Atkinson
-18. [Use Zettelkasten and Obsidian To Build a Personal Knowledge](https://www.udemy.com/course/build-your-personal-knowledge-base-with-zettelkasten-and-obsidian/?couponCode=ST13MT80425G3) [<span style="color:blue">In Progress</span>.]
+18. [Use Zettelkasten and Obsidian To Build a Personal Knowledge](https://www.udemy.com/course/build-your-personal-knowledge-base-with-zettelkasten-and-obsidian/?couponCode=ST13MT80425G3) [In Progress]
 19. [10X SKILL UP Fast: Cut Your Learning Time in Half PLAYBOOK](https://www.udemy.com/course/eight-learning-styles/?couponCode=ST13MT80425G3)
 
 
