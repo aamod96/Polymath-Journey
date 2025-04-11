@@ -2,8 +2,7 @@
 
 I have been passionate about learning a wide variety of fields. I love art, music, science and technology, and martial arts. This repo is my attempt to build a solid foundation towards becoming a polymath.
 
-## Meta-learning (3 Months)
-
+## Meta-learning
 I believe that in order to become a polymath it is not just about learning a lot of different fields but also learning how to learn. It is important that you can grasp concepts quickly and correctly, retain them over a longer period of time and apply them wherever necessary. To achieve this I have identified a set of books, the methods from which need to be learned. These methods should become a part of your learning and become second nature just like breathing.
 
 1. The Complete Guide to Self-Control by Scott. Young
@@ -23,10 +22,12 @@ I believe that in order to become a polymath it is not just about learning a lot
 15. Polymath: Master Multiple Disciplines, Learn New Skills, Think Flexibly, and Become Extraordinary Autodidact by Peter Hollins
 16. Learn Like a Polymath by Peter Hollins
 17. The Art of Logical Thinking by William Walker Atkinson
+18. [Use Zettelkasten and Obsidian To Build a Personal Knowledge](https://www.udemy.com/course/build-your-personal-knowledge-base-with-zettelkasten-and-obsidian/?couponCode=ST13MT80425G3) [<span style="color:blue">In Progress</span>.]
+19. [10X SKILL UP Fast: Cut Your Learning Time in Half PLAYBOOK](https://www.udemy.com/course/eight-learning-styles/?couponCode=ST13MT80425G3)
 
 
 ## Science and technology
-### Foundations 1 (3 - 6 Months)
+### Foundations 1
 The foundational subjects here will be from GeekforGeeks website and will cover class 8th - class 12th biology, physics, chemistry, and, mathematics.
 
 1. [Biology](https://www.geeksforgeeks.org/biology/?ref=footer&_gl=1*1uiv2e9*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwzMi_BhACEiwAX4YZUNVCTWlUAS905JxqJdFS8eE9iVMNcsSQkwV_KbmjcNn1rjIJzLIzWBoCM9EQAvD_BwE)
@@ -34,7 +35,7 @@ The foundational subjects here will be from GeekforGeeks website and will cover 
 3. [Chemistry](https://www.geeksforgeeks.org/chemistry/?ref=footer&_gl=1*yfma5i*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwzMi_BhACEiwAX4YZUNVCTWlUAS905JxqJdFS8eE9iVMNcsSQkwV_KbmjcNn1rjIJzLIzWBoCM9EQAvD_BwE)
 4. [Mathematics](https://www.geeksforgeeks.org/maths/?ref=footer&_gl=1*yfma5i*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwzMi_BhACEiwAX4YZUNVCTWlUAS905JxqJdFS8eE9iVMNcsSQkwV_KbmjcNn1rjIJzLIzWBoCM9EQAvD_BwE)
 
-### Foundations 2 (3 - 6 Months)
+### Foundations 2
 These foundational learnings will come from encyclopedias, books and the manga guides. The manga guides are japanese comics written for many subjects and illustrate the fundamentals of many fields of science and engineering.
 
 1. [Animals - A Visual Encyclopedia](https://drive.google.com/file/d/1Vb3oVMjD87yn-RRa0VCnfIJ8twAm-rME/view?usp=drive_link)
@@ -68,7 +69,7 @@ These foundational learnings will come from encyclopedias, books and the manga g
 30. Our Mathematical Universe by Max Tegmark
 31. Life 3.0 by Max Tegmark
 
-### Undergraduate Courses (1 - 2 Years)
+### Undergraduate Courses
 These courses will be from MIT opencourseware and the level will be equivalent to an undergraduate degree.
 
 #### Sem 1
