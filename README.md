@@ -23,7 +23,7 @@ I believe that in order to become a polymath it is not just about learning a lot
 16. Learn Like a Polymath by Peter Hollins
 17. The Art of Logical Thinking by William Walker Atkinson
 18. [10X SKILL UP Fast: Cut Your Learning Time in Half PLAYBOOK](https://www.udemy.com/course/eight-learning-styles/?couponCode=ST13MT80425G3)[In Progress]
-19. How to take smart notes
+19. How to take smart notes[In Progress]
 
 
 ## Science and technology
