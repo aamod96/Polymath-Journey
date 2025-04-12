@@ -22,7 +22,8 @@ I believe that in order to become a polymath it is not just about learning a lot
 15. Polymath: Master Multiple Disciplines, Learn New Skills, Think Flexibly, and Become Extraordinary Autodidact by Peter Hollins
 16. Learn Like a Polymath by Peter Hollins
 17. The Art of Logical Thinking by William Walker Atkinson
-18. [10X SKILL UP Fast: Cut Your Learning Time in Half PLAYBOOK](https://www.udemy.com/course/eight-learning-styles/?couponCode=ST13MT80425G3)
+18. [10X SKILL UP Fast: Cut Your Learning Time in Half PLAYBOOK](https://www.udemy.com/course/eight-learning-styles/?couponCode=ST13MT80425G3)[In Progress]
+19. How to take smart notes
 
 
 ## Science and technology
@@ -37,32 +38,32 @@ The foundational subjects here will be from GeekforGeeks website and will cover 
 ### Foundations 2
 These foundational learnings will come from encyclopedias, books and the manga guides. The manga guides are japanese comics written for many subjects and illustrate the fundamentals of many fields of science and engineering.
 
-1. [Animals - A Visual Encyclopedia](https://drive.google.com/file/d/1Vb3oVMjD87yn-RRa0VCnfIJ8twAm-rME/view?usp=drive_link)
-2. [Cars, Trains, Ships, and Planes - A Visual Encyclopedia](https://drive.google.com/file/d/1jNZB2lW8CGqLk2NGP-odGhF96u2iMguG/view?usp=sharing)
-3. [Dinosaurs - A Visual Encyclopedia](https://drive.google.com/file/d/1T774EBs3nIY0JZnDknAEZ4s86-4PNTcY/view?usp=sharing)
-4. [Human Body - A Visual Encyclopedia](https://drive.google.com/file/d/15Rk5hlMzVx-qdfrRjWHl8r-23KrmsS1r/view?usp=sharing)
-5. [Inventions - A Visual Encyclopedia](https://drive.google.com/file/d/1WwUXWPAvDEZQZVG1Cw1tghQN_56902Zg/view?usp=sharing)
-6. [Nature Guide - Rocks and Minerals](https://drive.google.com/file/d/1LDb6g73aDpCnWK9UQ1bnIYFTLp1PiwqO/view?usp=sharing)
-7. [Oceans - A Visual Encyclopedia](https://drive.google.com/file/d/1tiHrpQkk8bzTvDXUZWneuNoy8BmuOSal/view?usp=sharing)
-8. [Science - A Visual Encyclopedia](https://drive.google.com/file/d/1MhOcujluR3oW1nhya-XZJw2zi36lwqky/view?usp=sharing)
-9. [Science - A Visual Encyclopedia](https://drive.google.com/file/d/19IXdqPuogWSoHuU-3AFI48DKFgQOPWHu/view?usp=sharing)
-10. [Space - A Visual Encyclopedia](https://drive.google.com/file/d/13DVO2sHClfpDvqJfHsaM8uBewJHq-kZ2/view?usp=sharing)
-11. [Sharks and Other Deadly Ocean Creatures -  Visual Encyclopedia](https://drive.google.com/file/d/16NRoF-raI10AngW3UKgTe2rUKZ8-PqQr/view?usp=sharing)
-12. [The Elements Book - A Visual Encyclopedia](https://drive.google.com/file/d/1MODvbSLCYfl5tCx7BQrDHMbY4JeKFTdK/view?usp=sharing)
-14. [The Manga Guide to Biochemistry](https://drive.google.com/file/d/1CVB43LS9FBLpdN8QwfiuIIiEf2g18pNm/view?usp=sharing)
-15. [The Manga Guide to Calculus](https://drive.google.com/file/d/1OvfuMmH5LaA5cQcZCeIFSrW01paZmg2z/view?usp=sharing)
-16. [The Manga Guide to Cryptography](https://drive.google.com/file/d/1ytshyKr5ADRHd02N0IqkFGfETukqlOBN/view?usp=sharing)
-17. [The Manga Guide to Databases](https://drive.google.com/file/d/1X-QlFQwi7PSqGT857k_lJY-b_j2itdx-/view?usp=sharing)
-18. [The Manga Guide to Electricity](https://drive.google.com/file/d/1ZfnOUo9C3ewKT6g5bl2xwxUahFzsAc8A/view?usp=sharing)
-19. [The Manga Guide to Linear Algebra](https://drive.google.com/file/d/19bczL99HpRX03DF5TIF5_ARZWaOQpCJA/view?usp=sharing)
-20. [The Manga Guide to Microprocessors](https://drive.google.com/file/d/1iDS-yJ2YoxqbFwCM3aYQ9iR1ZLctuXjC/view?usp=sharing)
-21. [The Manga Guide to Molecular Biology](https://drive.google.com/file/d/1X15ghWiHVoZyb4epa7EkyZn1wbCRnRoR/view?usp=sharing)
-22. [The Manga Guide to Physics](https://drive.google.com/file/d/1FMB4E8UtoZm8HGVMhx6QPsfx2CmTIZFe/view?usp=sharing)
-23. [The Manga Guide to Physiology](https://drive.google.com/file/d/15B-IDpmPqEyQVCJgJzE17U--d-h9faZx/view?usp=sharing)
-24. [The Manga Guide to Regression Analysis](https://drive.google.com/file/d/1_kpWUfzZ5EBAX8yJNbk6XKliQ7anCTCi/view?usp=sharing)
-25. [The Manga Guide to Relativity](https://drive.google.com/file/d/1g31SKorSlQHH11rAvwEkxZM4JWUr_7IP/view?usp=sharing)
-26. [The Manga Guide to Statistics](https://drive.google.com/file/d/1UU5RVcR6MZ-PJBEFyCO-B0_1-C_940fk/view?usp=sharing)
-27. [The Manga Guide to Universe](https://drive.google.com/file/d/1jdO_30EQLyJjmCdoWss_7IJqdYOFNoc5/view?usp=sharing)
+1. Animals - A Visual Encyclopedia
+2. Cars, Trains, Ships, and Planes - A Visual Encyclopedia
+3. Dinosaurs - A Visual Encyclopedia
+4. Human Body - A Visual Encyclopedia
+5. Inventions - A Visual Encyclopedia
+6. Nature Guide - Rocks and Minerals
+7. Oceans - A Visual Encyclopedia
+8. Science - A Visual Encyclopedia
+9. Science - A Visual Encyclopedia
+10. Space - A Visual Encyclopedia
+11. Sharks and Other Deadly Ocean Creatures -  Visual Encyclopedia
+12. The Elements Book - A Visual Encyclopedia
+14. The Manga Guide to Biochemistry
+15. The Manga Guide to Calculus
+16. The Manga Guide to Cryptography
+17. The Manga Guide to Databases
+18. The Manga Guide to Electricity
+19. The Manga Guide to Linear Algebra
+20. The Manga Guide to Microprocessors
+21. The Manga Guide to Molecular Biology
+22. The Manga Guide to Physics
+23. The Manga Guide to Physiology
+24. The Manga Guide to Regression Analysis
+25. The Manga Guide to Relativity
+26. The Manga Guide to Statistics
+27. The Manga Guide to Universe
 28. Six Easy Pieces by Richard Feynman
 29. Code by Charles Petzold
 30. Our Mathematical Universe by Max Tegmark
