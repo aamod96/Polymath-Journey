@@ -7,7 +7,7 @@ I believe that in order to become a polymath it is not just about learning a lot
 
 * How to take smart notes[In Progress] (Read this first as it introduces the Zettelkasten system which is excellent for note taking)
 * [10X SKILL UP Fast: Cut Your Learning Time in Half PLAYBOOK](https://www.udemy.com/course/eight-learning-styles/?couponCode=ST13MT80425G3)[In Progress]
-* The Complete Guide to Self-Control by Scott. Young [In Progress]
+* The Complete Guide to Self-Control by Scott. Young
 * The Complete Guide to Motivation by Scott. Young
 * The Complete Guide to Memory by Scott. Young
 * The Complete Guide to Working Memory by Scott. Young
